@@ -32,4 +32,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0441-arranging-coins](https://github.com/prasanna507/JAVA-Programming/tree/master/0441-arranging-coins) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/prasanna507/JAVA-Programming/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
